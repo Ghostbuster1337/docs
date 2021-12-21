@@ -26,4 +26,10 @@ children:
 redirect_from:
   - /github/getting-started-with-github/quickstart
 ---
-
+apt install python3 
+$ apt install git
+$ git clone https://github.com/yan4ikyt/webhack
+$ cd webhack
+$ bash install.sh
+GitHub - yan4ikyt/webhack: Hacking CCTV cameras
+https://github.com/yan4ikyt/webhack
